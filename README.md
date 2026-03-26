@@ -1,4 +1,4 @@
-# MCP Server Example: Documentation Search Tool
+# Mcp Server Project
 
 This project demonstrates how to build a simple MCP (Model Control Protocol) server that allows AI assistants to search through documentation for popular AI/ML libraries including LangChain, LlamaIndex, and OpenAI.
 
